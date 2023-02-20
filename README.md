@@ -22,7 +22,7 @@ You need to have the following installed on your system:
 ## Built With
 
 - HTML, CSS and JavaSrcript
-- [Third-party API]([https://api.github.com/]) - Used to get up-to-date Github repositories
+- [Third-party API][https://api.github.com/] - Used to get up-to-date Github repositories
 
 ## Contributing 
 If you would like to contribute to this project, please feel free to do so by creating a pull request or opening an issue with any suggestions or bug fixes you may have!
