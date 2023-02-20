@@ -1,5 +1,3 @@
-//https://api.github.com/users/marwan-mohamed12/repos
-
 let reposList = async function (apiLink) {
     try {
         let myRequest = await fetch(apiLink);
